@@ -35,10 +35,6 @@ let newUser :User ={
     name :"mudassir",
     age :24
 }
-let newUser1 :User ={
-    name :"KHAN",
-    age :45
-}
 arr5.push(newUser);
-arr5.push(newUser1);
+
 console.log(arr5);
